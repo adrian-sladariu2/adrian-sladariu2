@@ -4,4 +4,4 @@
 
 Propongo un juego, la primera persona que adivine quien es mi actor favorito, le regalo 1M€
 
-Mi actor favorito es: (Pon aqui tu elección)
+Mi actor favorito es: Es posible que sea Liam Neeson?
